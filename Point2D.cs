@@ -8,8 +8,8 @@ namespace Inheritance
 {
     internal class Point2D
     {
-        public int x = 0;
-        public int y = 0;
+        public int x ;
+        public int y ;
       
     }
 }
